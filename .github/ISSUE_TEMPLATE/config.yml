@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: helmpass.zanoski.com
+    url: https://helmpass.zanoski.com
+    about: "The Helm Pass website, with the privacy policy and contact details."
+  - name: Email support
+    url: mailto:support@zanoski.com
+    about: No GitHub account? Write to support@zanoski.com.
