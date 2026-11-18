@@ -7,7 +7,7 @@
 <p align="center">Practise the Croatian boat licence B (voditelj brodice B) exam the way it is really held: oral questions, chart tasks and knots. Free study material, Pro paid once, fully offline.</p>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.zanoshky.helmpass"><b>Google Play</b></a> ·
+  <a href="https://play.google.com/store/apps/details?id=com.zanoshky.helmpass&referrer=utm_source%3Dgithub%26utm_medium%3Dreadme%26utm_campaign%3Dhelmpass-2026-11"><b>Google Play</b></a> ·
   <a href="https://helmpass.zanoski.com"><b>helmpass.zanoski.com</b></a> ·
   <a href="https://github.com/Zanoshky/helm-pass-app/issues/new/choose"><b>Report a bug</b></a>
 </p>
